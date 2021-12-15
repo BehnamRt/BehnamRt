@@ -24,7 +24,7 @@ This is the place where I open-source stuff and break things 🤣
 <details>
   <summary><b>📊 My GitHub Stats</b></summary>
   <h2 align="center">💻 Top Languages 💻</h2>
-  <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=BehnamRt&show_icons=true&locale=en&layout=compact&langs_count=10" alt="BehnamRt" />   </p>  
+  <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=BehnamRt&show_icons=true&locale=en&layout=compact" alt="BehnamRt" />   </p>  
   <br>
   <h2 align="center">🏆 Trophies 🏆</h2>
   <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=BehnamRt&show_icons=true&locale=en" alt="BehnamRt" /></p>  
@@ -35,6 +35,14 @@ This is the place where I open-source stuff and break things 🤣
   <br>
   <h2 align="center">🌱 Profile Views 🌱</h2>
   <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=BehnamRt&style=flat-square&label=GitHub+Profile+Views" alt="BehnamRt" /></p>
+</details>
+
+<details>
+  <summary><b>🐌 FiveM Projects</b></summary>
+  [![FiveM_GangSystem](https://github-readme-stats.vercel.app/api/pin/?username=BehnamRt&repo=FiveM_GangSystem&theme=buefy)](https://github.com/BehnamRt/FiveM_GangSystem)
+  [![FiveM_EventSystem](https://github-readme-stats.vercel.app/api/pin/?username=BehnamRt&repo=FiveM_EventSystem&theme=buefy)](https://github.com/BehnamRt/FiveM_EventSystem)
+  [![FiveM_GangXP](https://github-readme-stats.vercel.app/api/pin/?username=BehnamRt&repo=FiveM_GangXP&theme=buefy)](https://github.com/BehnamRt/FiveM_GangXP)
+  [![FiveM_Society](https://github-readme-stats.vercel.app/api/pin/?username=BehnamRt&repo=FiveM_Society&theme=buefy)](https://github.com/BehnamRt/FiveM_Society)
 </details>
 
 <hr>
