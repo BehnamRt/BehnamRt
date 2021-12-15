@@ -39,10 +39,12 @@ This is the place where I open-source stuff and break things 🤣
 
 <details>
   <summary><b>🐌 FiveM Projects</b></summary>
-  [![FiveM_GangSystem](https://github-readme-stats.vercel.app/api/pin/?username=BehnamRt&repo=FiveM_GangSystem&theme=buefy)](https://github.com/BehnamRt/FiveM_GangSystem)
-  [![FiveM_EventSystem](https://github-readme-stats.vercel.app/api/pin/?username=BehnamRt&repo=FiveM_EventSystem&theme=buefy)](https://github.com/BehnamRt/FiveM_EventSystem)
-  [![FiveM_GangXP](https://github-readme-stats.vercel.app/api/pin/?username=BehnamRt&repo=FiveM_GangXP&theme=buefy)](https://github.com/BehnamRt/FiveM_GangXP)
-  [![FiveM_Society](https://github-readme-stats.vercel.app/api/pin/?username=BehnamRt&repo=FiveM_Society&theme=buefy)](https://github.com/BehnamRt/FiveM_Society)
+  <p align="center">
+    <a href="https://github.com/BehnamRt/FiveM_GangSystem"><img src="https://github-readme-stats.vercel.app/api/pin/?username=BehnamRt&repo=FiveM_GangSystem&theme=buefy" alt="BehnamRt"></a>
+    <a href="https://github.com/BehnamRt/FiveM_EventSystem"><img src="https://github-readme-stats.vercel.app/api/pin/?username=BehnamRt&repo=FiveM_EventSystem&theme=buefy" alt="BehnamRt"></a>
+    <a href="https://github.com/BehnamRt/FiveM_GangXP"><img src="https://github-readme-stats.vercel.app/api/pin/?username=BehnamRt&repo=FiveM_GangXP&theme=buefy" alt="BehnamRt"></a>
+    <a href="https://github.com/BehnamRt/FiveM_Society"><img src="https://github-readme-stats.vercel.app/api/pin/?username=BehnamRt&repo=FiveM_Society&theme=buefy" alt="BehnamRt"></a>
+  </p>
 </details>
 
 <hr>
